@@ -3,6 +3,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "another path": "/data/drive"
+    "another path": "/data/drive",
+    "added more path": "/data/var/www"
   }
 }
